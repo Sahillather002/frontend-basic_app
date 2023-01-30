@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sahillather002/frontend-basic_app/static/css/main.a240c550.css",
+    "main.js": "/Sahillather002/frontend-basic_app/static/js/main.ec23bfe5.js",
+    "index.html": "/Sahillather002/frontend-basic_app/index.html",
+    "main.a240c550.css.map": "/Sahillather002/frontend-basic_app/static/css/main.a240c550.css.map",
+    "main.ec23bfe5.js.map": "/Sahillather002/frontend-basic_app/static/js/main.ec23bfe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.ec23bfe5.js"
+  ]
+}
