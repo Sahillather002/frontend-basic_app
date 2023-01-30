@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://github.com/Sahillather002/frontend-basic_app",
+  "homepage": "https://Sahillather002.github.io/frontend-basic_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,6 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "http://localhost:8000"
+  }
 }
