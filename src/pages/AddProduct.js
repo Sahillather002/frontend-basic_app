@@ -31,7 +31,7 @@ function AddProduct() {
 
   const handleSubmit = async (event) => {
     const response = await axios.post(
-      "https://odd-lime-anemone-kit.cyclic.app/posts",
+      "https://fancy-ox-tiara.cyclic.app/posts",
       data
     );
     console.log(response);
